@@ -22,10 +22,6 @@ body {
 }
 
 nav {
-  /* position:absolute;
-  top:110px;
-  left:20px; */
-
   margin-top:20px;
   margin-right:20px;
 }
@@ -75,10 +71,6 @@ select:focus {
 
 main {  
   margin-top:20px;
-
-  /* position:absolute;
-  top:110px;
-  left:240px; */
 }
 
 .content-title {
